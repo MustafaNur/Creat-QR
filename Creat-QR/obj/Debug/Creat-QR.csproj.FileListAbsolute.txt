@@ -1,0 +1,13 @@
+C:\Users\Mustafa\source\repos\CreatQR\Creat-QR\Creat-QR\bin\Debug\Creat-QR.exe.config
+C:\Users\Mustafa\source\repos\CreatQR\Creat-QR\Creat-QR\bin\Debug\Creat-QR.exe
+C:\Users\Mustafa\source\repos\CreatQR\Creat-QR\Creat-QR\bin\Debug\Creat-QR.pdb
+C:\Users\Mustafa\source\repos\CreatQR\Creat-QR\Creat-QR\bin\Debug\MessagingToolkit.QRCode.dll
+C:\Users\Mustafa\source\repos\CreatQR\Creat-QR\Creat-QR\obj\Debug\Creat-QR.csproj.AssemblyReference.cache
+C:\Users\Mustafa\source\repos\CreatQR\Creat-QR\Creat-QR\obj\Debug\Creat-QR.csproj.SuggestedBindingRedirects.cache
+C:\Users\Mustafa\source\repos\CreatQR\Creat-QR\Creat-QR\obj\Debug\Creat_QR.Form1.resources
+C:\Users\Mustafa\source\repos\CreatQR\Creat-QR\Creat-QR\obj\Debug\Creat_QR.Properties.Resources.resources
+C:\Users\Mustafa\source\repos\CreatQR\Creat-QR\Creat-QR\obj\Debug\Creat-QR.csproj.GenerateResource.cache
+C:\Users\Mustafa\source\repos\CreatQR\Creat-QR\Creat-QR\obj\Debug\Creat-QR.csproj.CoreCompileInputs.cache
+C:\Users\Mustafa\source\repos\CreatQR\Creat-QR\Creat-QR\obj\Debug\Creat-QR.csproj.CopyComplete
+C:\Users\Mustafa\source\repos\CreatQR\Creat-QR\Creat-QR\obj\Debug\Creat-QR.exe
+C:\Users\Mustafa\source\repos\CreatQR\Creat-QR\Creat-QR\obj\Debug\Creat-QR.pdb
